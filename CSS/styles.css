@@ -1,14 +1,18 @@
 body {
-  background-color: rgb(238, 170, 93);
+  background-color: #f8e49d;
+  text-align: center;
 }
 
 a {
   text-align: center;
-  margin: 0 auto;
+  margin: 0 10px;
+  color: brown;
 }
 
 img {
   margin: 0 auto;
+  margin-top: 30px;
+  margin-bottom: 30px;
   display: block;
   border-radius: 5px;
   max-width: 600px;
